@@ -20,6 +20,9 @@ img{
 }
 .price,.des{
     font-size: 25px;
+	display:flex;
+	justify-content: center;
+    align-items: center;
 }
 .btn{
     width: 100px;
@@ -29,4 +32,5 @@ img{
     display: flex;
     justify-content: center;
     align-items: center;
+	color:white;
 }
