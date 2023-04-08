@@ -21,7 +21,7 @@ p,h1{
     align-items: center;
 }
 
-.btn{
+button{
     width: 100px;
     height: 40px;
     background-color: #ff2d55;
